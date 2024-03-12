@@ -1,0 +1,48 @@
+
+1. **Temel Kavramlar ve İşlemler:**
+   - Vektörler: Vektörlerin tanımı, vektörlerin toplamı, çarpımı, skaler çarpım, vektör uzunluğu, 
+	vektörlerin normları.
+   - Matrisler: Matris tanımı, matris çarpımı, matris toplamı, matris çıkarma, transpoz, 
+	ters matris, matrisin izi, matrisin determinantı ve Matris Analizi
+
+2. **Doğrusal Denklem Sistemleri:**
+   - Doğrusal denklem sistemlerinin temel tanımı.
+   - Doğrusal denklem sistemlerini çözme: Gauss eleme yöntemi, Gauss-Jordan eleme yöntemi, matris yöntemleri.
+   - Doğrusal denklem sistemlerinin çözülemezliği ve çözüm kümesinin belirlenmesi.
+
+3. **Doğrusal Dönüşümler:**
+   - Lineer dönüşümler ve matrisleri.
+   - Doğrusal dönüşümlerin özellikleri: Doğrusallık, ters dönüşüm, kompozisyon.
+   - Doğrusal dönüşümlerin geometrik yorumu: İzomorfizmeler, lineer bağımsızlık.
+
+4. **Vektör Uzayları:**
+   - Vektör uzayının tanımı ve özellikleri.
+   - Alt uzaylar ve alt uzayların özellikleri.
+   - İzomorfizmeler ve vektör uzaylar arasındaki ilişkiler.
+
+5. **Lineer Bağımlılık ve Bağımsızlık:**
+   - Lineer bağımlılık ve bağımsızlık kavramları.
+   - Lineer bağımsızlık testi ve sonuçları.
+   - Boyut teoremi.
+
+6. **İç Çarpım Uzayları ve Normlar:**
+   - İç çarpım uzaylarının tanımı ve özellikleri.
+   - Normların tanımı ve özellikleri.
+   - Skaler çarpım ve normların kullanımıyla ilgili teoremler.
+
+7. **Özdeğerler ve Özvektörler:**
+   - Özdeğer ve özvektör kavramları.
+   - Özdeğer problemlerinin çözümü.
+   - Özdeğerlerin ve özvektörlerin geometrik yorumu.
+
+8. **Lineer Dönüşümlerin Özdeğer ve Özvektörleri:**
+   - Bir matrisin özdeğer ve özvektörlerinin bulunması.
+   - Özdeğer ve özvektörlerin geometrik yorumu.
+
+9. **Karmaşık Vektör Uzayları ve İç Çarpım:**
+   - Karmaşık vektör uzayları.
+   - İç çarpım ve normların karmaşık vektör uzaylarında genelleştirilmesi.
+
+10. **Lineer Cebirin Uygulamaları:**
+    - Mühendislik, bilgisayar bilimi, ekonomi ve diğer alanlarda kullanılan lineer cebir uygulamaları.
+    - Lineer cebirin temel algoritma ve programlama uygulamaları.

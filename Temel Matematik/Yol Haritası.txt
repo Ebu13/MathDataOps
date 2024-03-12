@@ -1,0 +1,63 @@
+1. **Aritmetik:**
+   - Temel aritmetik işlemleri: Toplama, çıkarma, çarpma, bölme.
+   - Bölme işleminin özellikleri ve tam sayı bölme teoremi.
+
+2. **Cebir:**
+   - Değişkenlerin tanımı ve kullanımı.
+   - Denklemler ve denklem çözme yöntemleri.
+   - Eşitsizlikler ve eşitsizlik çözme yöntemleri.
+
+3. **Geometri:**
+   - Temel geometrik şekillerin tanımları ve özellikleri: Doğrular, açılar, üçgenler, dörtgenler, daireler.
+   - Geometrik kavramlar arasındaki ilişkiler: Benzerlik, eşlik, diklik, paralellik.
+   - Alan ve çevre hesaplamaları.
+
+4. **Fonksiyonlar:**
+   - Fonksiyonların tanımı ve gösterimi.
+   - Temel fonksiyon türleri: Doğrusal fonksiyonlar, kuadratik fonksiyonlar, 
+	üstel fonksiyonlar, trigonometrik fonksiyonlar.
+   - Fonksiyonların özellikleri: Tanım kümesi, değer kümesi, teklik, 
+	çiftlik, artan ve azalan fonksiyonlar.
+
+5. **Analitik Geometri:**
+
+   - Koordinat sistemi: 2-boyutlu ve 3-boyutlu koordinat sistemleri.
+   - Doğrular ve düzlemler: Doğru denklemleri, doğruların paralellik ve diklik ilişkileri, düzlem denklemleri.
+   - Nokta, doğru ve düzlemlerin konumlarını belirleme.
+
+6. **Trigonometri:**
+
+   - Temel trigonometrik fonksiyonlar: Sinüs, kosinüs, tanjant, kotanjant, sekant, kosekant.
+   - Trigonometrik denklemler ve eşitsizlikler.
+   - Trigonometrik fonksiyonların grafikleri ve özellikleri.
+
+7. **Limit ve Süreklilik:**
+   - Limit kavramı ve limitin tanımı.
+   - Limitin özellikleri: Sıkışma teoremi, limit kuralları.
+   - Süreklilik kavramı ve süreklilik koşulları.
+
+8. **Türev ve İntegral:**
+   - Türev kavramı ve türevin tanımı.
+   - Türevin özellikleri: Türev kuralları, zincir kuralı.
+   - İntegral kavramı ve integralin tanımı.
+   - İntegralin özellikleri: İntegral kuralları, yer değiştirme teoremi.
+
+9. **Diferansiyel Denklemler:**
+   - Diferansiyel denklemlerin tanımı ve sınıflandırılması.
+   - Birinci dereceden diferansiyel denklemler ve çözüm yöntemleri.
+   - İkinci dereceden lineer diferansiyel denklemler ve çözüm yöntemleri.
+
+10. **Karmaşık Sayılar:**
+   - Karmaşık sayıların tanımı ve gösterimi.
+   - Karmaşık sayılar üzerinde işlemler: Toplama, çıkarma, çarpma, bölme.
+   - Karmaşık sayıların konjugesi ve mutlak değeri.
+
+11. **Sayılar Teorisi:**
+   - Asal sayılar, bölenler ve bölenlerin özellikleri.
+   - EBOB (En Büyük Ortak Bölen) ve EKOK (En Küçük Ortak Kat) kavramları.
+   - Modüler aritmetik ve modüler denklemler.
+
+12. **Matematiksel Mantık:**
+    - Mantıksal bağlaçlar ve önermeler.
+    - Doğruluk tabloları ve mantıksal eşdeğerlikler.
+    - Kuantifikatörler ve nicelikler.
