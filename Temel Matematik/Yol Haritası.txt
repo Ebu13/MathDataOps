@@ -1,7 +1,3 @@
-1. **Aritmetik:**
-   - Temel aritmetik işlemleri: Toplama, çıkarma, çarpma, bölme.
-   - Bölme işleminin özellikleri ve tam sayı bölme teoremi.
-
 2. **Cebir:**
    - Değişkenlerin tanımı ve kullanımı.
    - Denklemler ve denklem çözme yöntemleri.
