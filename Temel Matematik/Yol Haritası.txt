@@ -1,13 +1,3 @@
-2. **Cebir:**
-   - Değişkenlerin tanımı ve kullanımı.
-   - Denklemler ve denklem çözme yöntemleri.
-   - Eşitsizlikler ve eşitsizlik çözme yöntemleri.
-
-3. **Geometri:**
-   - Temel geometrik şekillerin tanımları ve özellikleri: Doğrular, açılar, üçgenler, dörtgenler, daireler.
-   - Geometrik kavramlar arasındaki ilişkiler: Benzerlik, eşlik, diklik, paralellik.
-   - Alan ve çevre hesaplamaları.
-
 4. **Fonksiyonlar:**
    - Fonksiyonların tanımı ve gösterimi.
    - Temel fonksiyon türleri: Doğrusal fonksiyonlar, kuadratik fonksiyonlar, 
