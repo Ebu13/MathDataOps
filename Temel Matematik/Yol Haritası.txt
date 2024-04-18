@@ -1,26 +1,3 @@
-4. **Fonksiyonlar:**
-   - Fonksiyonların tanımı ve gösterimi.
-   - Temel fonksiyon türleri: Doğrusal fonksiyonlar, kuadratik fonksiyonlar, 
-	üstel fonksiyonlar, trigonometrik fonksiyonlar.
-   - Fonksiyonların özellikleri: Tanım kümesi, değer kümesi, teklik, 
-	çiftlik, artan ve azalan fonksiyonlar.
-
-5. **Analitik Geometri:**
-
-   - Koordinat sistemi: 2-boyutlu ve 3-boyutlu koordinat sistemleri.
-   - Doğrular ve düzlemler: Doğru denklemleri, doğruların paralellik ve diklik ilişkileri, düzlem denklemleri.
-   - Nokta, doğru ve düzlemlerin konumlarını belirleme.
-
-6. **Trigonometri:**
-
-   - Temel trigonometrik fonksiyonlar: Sinüs, kosinüs, tanjant, kotanjant, sekant, kosekant.
-   - Trigonometrik denklemler ve eşitsizlikler.
-   - Trigonometrik fonksiyonların grafikleri ve özellikleri.
-
-7. **Limit ve Süreklilik:**
-   - Limit kavramı ve limitin tanımı.
-   - Limitin özellikleri: Sıkışma teoremi, limit kuralları.
-   - Süreklilik kavramı ve süreklilik koşulları.
 
 8. **Türev ve İntegral:**
    - Türev kavramı ve türevin tanımı.
